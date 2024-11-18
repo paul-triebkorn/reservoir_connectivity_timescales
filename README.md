@@ -1,5 +1,5 @@
 # Intro
-This repository contains the code to reproduce the results and findings of the article "Impact of white matter connectivity on brain network processing time scales – a computational connectomic study". 
+This repository contains the code to reproduce the results and findings of the article "Modelling the impact of white matter connectivity on brain network processing time scales – a computational connectomic study". 
 
 # How to use:
 <p> The following scripts are used to reconstruct the connectomes and identify single fibre bundles from the diffusion data of HCP subjects. Note, that in each script the root folder needs to be specified to point to the data and software required. <br>
@@ -31,6 +31,10 @@ To reproduce the results about alignment times in human connectome model (Figure
 
 <p>
 To reproduce the results about alignment times in human connectome model and comparing it to the empirical ordering of alignment times (Figures 7 and 8) run the code in timeconstants_task_auditory_1000P.py. This requires to run the steps on connectome and fibre bundle extraction for the Schaefer 1000Parcels 17 Networks parcellation.  
+</p>
+
+<p>
+Follow the scripts timeconstants_task_auditory_1000P_length_percentile.py to reproduce the results form Figure S7.  
 </p>
 
 # Software dependencies

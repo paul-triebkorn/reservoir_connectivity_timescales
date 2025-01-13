@@ -34,6 +34,10 @@ To reproduce the results about alignment times in human connectome model and com
 </p>
 
 <p>
+All numerical source data for the EDR based reservoir and subject wise timeconstants can be found in the folder ./data.
+</p>
+
+<p>
 Follow the scripts timeconstants_task_auditory_1000P_length_percentile.py to reproduce the results form Figure S7.  
 </p>
 

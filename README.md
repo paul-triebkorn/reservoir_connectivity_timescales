@@ -1,7 +1,7 @@
 # Intro
-This repository contains the code to reproduce the results and findings of the article "Simulating the impact of white matter connectivity on processing time scales using brain network models"
-Paul Triebkorn1, Viktor Jirsa1, Peter Ford Dominey2
-1 Aix Marseille Univ, INSERM, INS, Inst Neurosci Syst, Marseille, 13005, France
+<p>This repository contains the code to reproduce the results and findings of the article "Simulating the impact of white matter connectivity on processing time scales using brain network models" </p>
+Paul Triebkorn1, Viktor Jirsa1, Peter Ford Dominey2 <br>
+1 Aix Marseille Univ, INSERM, INS, Inst Neurosci Syst, Marseille, 13005, France<br>
 2 Université Bourgogne Franche-Comté, UFR des Sciences du Sport, Dijon, France
 
 # How to use:
